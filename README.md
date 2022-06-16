@@ -2,7 +2,7 @@
 
 [겁쟁이페달](http://image.auction.co.kr/itemimage/1a/56/11/1a56111086.jpg)
 
-
+![](README-images/1a56111086.jpg)
 
 ```자기소개 페이지 작성하기'''
 음...비슷하게 생겼습니다. 
