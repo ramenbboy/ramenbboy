@@ -27,7 +27,7 @@
 
 * git branch -M main 
 
-* git remote add origin https://github.com/GIT_USER ID/Repositories.git
+* git remote add origin 뒤에 ~git 경로 붙이기
 
 * git push -u origin main
 
