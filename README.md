@@ -33,3 +33,7 @@
 
 * 게시 내용 확인하고, 이후 잘 만들기 ( add - commit - push )
 
+* gitignore 만들기 우선, 윈도우, JAVA로 만들고, 
+
+  https://www.toptal.com/developers/gitignore/
+
