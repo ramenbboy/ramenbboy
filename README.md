@@ -1,24 +1,35 @@
 ### 안녕하세요, Ramenbboy 입니다.
 
+[겁쟁이페달](http://image.auction.co.kr/itemimage/1a/56/11/1a56111086.jpg)
 
 
-오늘은 git hub를 배웁니다.
-
-
-
-github 에 <username> 으로 repository 만들기
-
-PC 의 GIT 폴더 안에 Git Bash로 mkdir <username> 이름으로 폴더 만들기 - 
-
-PC GIT>ramenbboy>README.md 새로 만들고 
 
 ```자기소개 페이지 작성하기'''
-자기소개 페이지 
+음...비슷하게 생겼습니다. 
 
-Ramenbboy 입니다.
+
+
 ```
 
-게시하고, 여러번 반복하기!  
+### 오늘은 github를 배웁니다.  게시하고, 여러번 반복하기!  
 
-add - commit - push 
+* GIT 폴더에서 Git Bash Here
+
+* Git Bash 터미널에서 ~/Desktop/GIT 경로에 mkdir <username> 
+
+* touch README.md 
+
+* Typora로 자기소개서 작성-저장 
+
+* git add README.md
+
+* git commit -m '2022-06-16 16:55 commit'  # 해당 시간으로 ^^ 
+
+* git branch -M main 
+
+* git remote add origin https://github.com/GIT_USER ID/Repositories.git
+
+* git push -u origin main
+
+* 게시 내용 확인하고, 이후 잘 만들기 ( add - commit - push )
 
